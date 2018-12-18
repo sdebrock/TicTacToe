@@ -1,8 +1,8 @@
 {
-  "name": "react",
+  "name": "TicTacToe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sdebrock.github.io/react/",
+  "homepage": "https://sdebrock.github.io/TicTacToe/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
