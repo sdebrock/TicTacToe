@@ -1,6 +1,7 @@
 body {
   font: 14px "Century Gothic", Futura, sans-serif;
-  margin: 20px;
+  margin: 50px;
+  background-color: #9C9AA5;
 }
 
 ol, ul {
@@ -18,8 +19,8 @@ ol, ul {
 }
 
 .square {
-  background: #fff;
-  border: 1px solid #999;
+  background: #9C9AA5;
+  border: 1px solid #fff;
   float: left;
   font-size: 24px;
   font-weight: bold;
